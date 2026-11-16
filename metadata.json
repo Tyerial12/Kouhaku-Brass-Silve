@@ -1,0 +1,6 @@
+{
+  "name": "Kouhaku Brass & Silver",
+  "description": "An HD-2D East-Asian mythos monster-taming handheld RPG set in the Kouhaku Region, featuring walking partner spirits, dynamic day/night lighting, Sacred Bell shrine resonance, and a Holo-Walker pedometer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

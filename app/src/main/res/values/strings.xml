@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kouhaku Brass &amp; Silver</string>
+    <string name="subtitle_region">KOUHAKU REGION CHRONICLES</string>
+    <string name="tab_controls">D-Pad &amp; Map</string>
+    <string name="tab_walker">Spirit-Walker</string>
+    <string name="tab_shrine">Bells &amp; Forge</string>
+    <string name="tab_party">Party &amp; Dex</string>
+    <string name="action_talk_partner">Talk to Partner</string>
+    <string name="action_interact">Inspect / Talk (A)</string>
+    <string name="action_heal_lantern">Rest at Lantern</string>
+    <string name="action_save_game">Save Chronicle</string>
+    <string name="battle_fight">STRIKE</string>
+    <string name="battle_bag">SPIRIT BAG</string>
+    <string name="battle_party">PARTY</string>
+    <string name="battle_run">RETREAT</string>
+    <string name="pedometer_title">SPIRIT-WALKER LCD</string>
+    <string name="pedometer_dowse">Dowse Step Rewards (50 Steps)</string>
+    <string name="pedometer_sim_walk">Brisk Stroll (+25 Steps)</string>
+    <string name="bell_brass_title">Clear Brass Bell</string>
+    <string name="bell_silver_title">Tidal Silver Bell</string>
+    <string name="forge_title">Apricorn &amp; Spirit Acorn Forge</string>
+</resources>
